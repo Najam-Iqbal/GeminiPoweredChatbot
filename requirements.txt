@@ -1,1 +1,1 @@
--q -U google-generativeai
+google-generativeai
